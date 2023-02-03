@@ -1,8 +1,7 @@
 package ReviewWeek;
 
-public class ReviewTest1 {
+public class Test2 {
     public static void main(String[] args) {
-        //test1
         //test2
     }
 }
